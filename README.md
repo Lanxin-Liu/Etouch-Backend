@@ -304,25 +304,3 @@ npm run start:dev | tee server.log
 # 查看错误日志
 npm run start:dev 2>&1 | grep ERROR
 ```
-
-## 🤝 贡献指南
-
-1. Fork 项目
-2. 创建功能分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 Pull Request
-
-## 📄 License
-
-MIT License - 详见 [LICENSE](LICENSE) 文件
-
-## 📞 联系方式
-
-如有问题或建议，请通过以下方式联系：
-- 提交 Issue
-- 发送邮件至项目维护者
-
----
-
-**最后更新**: 2025-01-10
